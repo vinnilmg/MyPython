@@ -1,1 +1,2 @@
-Meus testes
+Python
+Alguns testes e exercicios dos cursos.
