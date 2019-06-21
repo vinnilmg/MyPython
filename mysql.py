@@ -1,8 +1,8 @@
 import MySQLdb
 
 host = "localhost"
-user = "root"
-password = "buibui10"
+user = ""
+password = ""
 db = "ex03"
 port = 3306
 
